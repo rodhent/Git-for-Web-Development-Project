@@ -148,6 +148,8 @@ link to finished codepen: https://codepen.io/rodhent/pen/qBZWzzq?editors=1100
     -Submit PR into the new branch
     -Make sure it's own student fork
     -Add TL as a reviewer on the PR
+    -Do not merge your own pull request
+    -TL will merge the PR after they have done a review
 
 
 Stretch Questions
